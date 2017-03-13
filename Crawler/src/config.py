@@ -1,0 +1,32 @@
+# encoding=utf-8
+__author__ = 'LoveLYJ'
+
+Cookies = {
+    "cna":"Ve7QDtpVUkMCAbSgPQ9jWy1T",
+    "thw":"cn",
+    "_med":"dw:1366&dh:768&pw:1366&ph:768&ist:0",
+    "v":"0",
+    "_tb_token_":"jMl3Tjvbs5p",
+    "uc3":"nk2=F5RAS6otzJ8k&id2=VWsg6JYQgue6&vt3=F8dAScUbeq9GAtt79eQ%3D&lg2=W5iHLLyFOGW7aA%3D%3D",
+    "existShop":"MTQ1MTQ0OTU3NA%3D%3D",
+    "lgc":"tb5998355",
+    "tracknick":"tb5998355",
+    "sg":"56b",
+    "skt":"cc26187ec5543d97",
+    "publishItemObj":"Ng%3D%3D",
+    "_cc_":"UIHiLt3xSw%3D%3D",
+    "tg":"0",
+    "_l_g_":"Ug%3D%3D",
+    "cookie2":"1cd5248a83befa5f94773481930bd3cb",
+    "cookie1":"VWxjFlsbs5BmNbsNGut3XhUvXLPBZmyV%2F10pDlLTuJ8%3D",
+    "mt":"ci=24_1&cyk=3_1",
+    "unb":"648738716",
+    "t":"2c219f8f1387476438f072cc55a876d9",
+    "_nk_":"tb5998355",
+    "cookie17":"VWsg6JYQgue6",
+    "x":"e%3D1%26p%3D*%26s%3D0%26c%3D0%26f%3D0%26g%3D0%26t%3D0%26__ll%3D-1%26_ato%3D0",
+    "whl":"-1%260%260%261451449624203",
+    "uc1":"cart_m=0&cookie14=UoWyj%2Fmse3sKlA%3D%3D&existShop=false&cookie16=U%2BGCWk%2F74Mx5tgzv3dWpnhjPaQ%3D%3D&cookie21=WqG3DMC9FxUx&tag=2&cookie15=UtASsssmOIJ0bQ%3D%3D&pas=0",
+    "isg":"53B37DFA983AFB795CF0A3DF88210142",
+    "l":"AjAwas/ZgC-fVSnF1296-FP0gPCCthTD",
+}
